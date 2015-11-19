@@ -1,0 +1,14 @@
+{
+  "name": "ask-prompt",
+  "version": "1.0.0",
+  "description": "easy prompts for node cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "onbjerg",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "read": "^1.0.7"
+  }
+}
